@@ -1,6 +1,6 @@
 <div align="left">
     <a href="README.md">English</a> |
-    <a href="README_vi.md">Vietnamese</a>
+    <a href="docs/README_vi.md">Vietnamese</a>
 </div>
 <br/>
 <div align="left">
